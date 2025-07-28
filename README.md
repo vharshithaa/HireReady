@@ -71,7 +71,7 @@ This project is currently a **work in progress**:
 
 ## 🔄 Development Plans
 
-- Setup project structure with Next.js and Node.js
+- Setup project structure with React.js and Node.js
 - Integrate Clerk authentication
 - Build AI Q&A mock interview engine (Gemini API)
 - Add full resume parsing and customization logic
